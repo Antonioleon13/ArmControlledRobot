@@ -26,14 +26,9 @@ Before using this package, make sure you have the following installed:
 
 ## Usage
 
-1. Launch the robot simulation environment:
+Run the arm control node:
     ```bash
-    roslaunch arm_controlled_robot simulation.launch
-    ```
-
-2. Run the arm control node:
-    ```bash
-    rosrun arm_controlled_robot main.py
+    rosrun GestureBasedArmControl main.py
     ```
 
 ## Demo
