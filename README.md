@@ -15,7 +15,7 @@ Before using this package, make sure you have the following installed:
 
 1. Clone this repository into your ROS workspace's `src` directory:
     ```bash
-    git clone https://github.com/yourusername/Arm_Controlled_Robot.git
+    git clone https://github.com/Antonioleon13/Arm_Controlled_Robot.git
     ```
 
 2. Install the required dependencies by navigating to the scripts directory and running:
