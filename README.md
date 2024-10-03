@@ -1,4 +1,4 @@
-# Arm Controlled Robot
+# Simulated Arm Controlled Robot with ROS
 
 ## Overview
 
